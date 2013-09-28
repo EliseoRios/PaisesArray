@@ -19,7 +19,7 @@
 	$Pais["Cuba"]=array("Cardenas","Palma Soriano","Holguin","Habana","Florida");
 	$Pais["Colombia"]=array("Santa Marta","Bogot&aacute","Armenia","Soledad","Bello");
 	$Pais["Argentina"]=array("Rosario","Mendoza","Buenos Aires","Santa fe","San Juan");
-	$Pais["Jap&oacute"]=array("Sahai","Sendai","Okayama","kumamoto","Niigata");
+	$Pais["Jap&oacuten"]=array("Sahai","Sendai","Okayama","kumamoto","Niigata");
 	$Pais["Libia"]=array("Derna","Tripoli","Nalut","Zauiya","Ghat");
 	$Pais["Reino Unido"]=array("Londres","Bristol","Exeter","Eastburn","Telford");
 	$Pais["Uruguay"]=array("Rivera","Las piedras","Melo","Rocha","Trinidad");
